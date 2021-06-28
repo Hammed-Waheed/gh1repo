@@ -1,6 +1,6 @@
 # Extending Markdown commands we know
 
-[user](wmw.linked.com)
+[Waheed-Hammed](wmw.linked.com)
 
 # New Recipes
 [Musaka recipe 1](#Muska-1)
